@@ -32,18 +32,11 @@ public class Home extends JFrame{
 
 
 //Images
-
-
-
 winLog=new ImageIcon("LOGOCS/CSIcon-modified.png");
 super.setIconImage(winLog.getImage());
-
 //Adding Elements
-
-
-
-//Panel adding
 panel.add(new Header());
+//Panel adding
 super.add(panel);
   }
     
