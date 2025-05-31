@@ -36,6 +36,7 @@ winLog=new ImageIcon("LOGOCS/CSIcon-modified.png");
 super.setIconImage(winLog.getImage());
 //Adding Elements
 panel.add(new Header());
+panel.add(new Details());
 //Panel adding
 super.add(panel);
   }
