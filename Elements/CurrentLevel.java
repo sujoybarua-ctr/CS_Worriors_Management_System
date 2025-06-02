@@ -99,7 +99,7 @@ public class CurrentLevel extends JPanel {
     l4.setForeground(new Color(245,238,27));
 
 
-    String[] sqd={"","Main Squad","Substitue","Reserved Squad"};
+    String[] sqd={"","Main Squad","Substitute","Reserved Squad"};
     sp= new JComboBox(sqd);
     sp.setBounds(10, 355, 150, 35);
     sp.setBackground(new Color(49,60,79));
