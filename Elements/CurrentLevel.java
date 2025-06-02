@@ -13,7 +13,7 @@ public class CurrentLevel extends JPanel {
         super.setBounds(300,280,250,500);
 
         // Addig Labels
-        JLabel l1= new JLabel("Player Level");
+        JLabel l1= new JLabel("Playing Level");
         l1.setBounds(10,4,250,60);
         l1.setFont(new Font("Palatino Linotype", Font.BOLD, 26));
         l1.setForeground(new Color(245,238,27));
@@ -24,7 +24,7 @@ public class CurrentLevel extends JPanel {
         l2.setForeground(new Color(245,238,27));
 
         JLabel l3= new JLabel("Player Fitness");
-        l3.setBounds(10,210,250,60);
+        l3.setBounds(10,200,250,60);
         l3.setFont(new Font("Palatino Linotype", Font.BOLD, 26));
         l3.setForeground(new Color(245,238,27));
 
@@ -84,7 +84,7 @@ public class CurrentLevel extends JPanel {
     String[] fit= {"","Fit to Play", "Injured","Recovering"};
 
     ft= new JComboBox(fit);
-    ft.setBounds(10, 265, 150, 35);
+    ft.setBounds(10, 250, 150, 35);
     ft.setBackground(new Color(49,60,79));
     ft.setForeground(Color.WHITE);
     ft.setFont(new Font("Agency FB",Font.PLAIN, 25));
@@ -94,14 +94,14 @@ public class CurrentLevel extends JPanel {
     // Squad type 
 
     JLabel l4= new JLabel("Player Type");
-    l4.setBounds(10, 320, 250, 60);
+    l4.setBounds(10, 300, 250, 60);
     l4.setFont(new Font("Palatino Linotype", Font.BOLD, 26));
     l4.setForeground(new Color(245,238,27));
 
 
     String[] sqd={"","Main Squad","Substitue","Reserved Squad"};
     sp= new JComboBox(sqd);
-    sp.setBounds(10, 385, 150, 35);
+    sp.setBounds(10, 355, 150, 35);
     sp.setBackground(new Color(49,60,79));
     sp.setForeground(Color.WHITE);
     sp.setFont(new Font("Agency FB",Font.PLAIN, 25));
