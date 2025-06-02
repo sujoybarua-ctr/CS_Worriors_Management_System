@@ -8,7 +8,7 @@ public PlayerAttribute(){
     super.setLayout(null);
     super.setBounds(300,0,250,280);
     super.setBackground(Color.cyan);
-    super.setOpaque(true);
+    super.setOpaque(false);
 
 //Lbels adding
      
