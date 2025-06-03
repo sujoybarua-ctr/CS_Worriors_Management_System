@@ -65,18 +65,26 @@ tit.setForeground(tc);
         pn=new JTextField();
         pn.setBounds(140,148,132,30);
         pn.setFont(lf);
+        pn.setBackground(new Color(60,79,92));
+        pn.setForeground(new Color(206, 209, 199));
 
         pi=new JTextField();
         pi.setBounds(140,198,132,30);
         pi.setFont(lf);
+        pi.setBackground(new Color(60,79,92));
+        pi.setForeground(Color.WHITE);
 
         sem=new JTextField();
         sem.setBounds(140,248,132,30);
         sem.setFont(lf);
+        sem.setBackground(new Color(60,79,92));
+        sem.setForeground(new Color(206, 209, 199));
 
         jn=new JTextField();
         jn.setBounds(140,298,35,30);
         jn.setFont(lf);
+        jn.setBackground(new Color(60,79,92));
+        jn.setForeground(Color.WHITE);
         
 //textArea
         ex=new JTextArea();
