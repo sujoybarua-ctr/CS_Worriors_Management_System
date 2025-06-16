@@ -37,7 +37,6 @@ super.setIconImage(winLog.getImage());
 //Adding Elements
 panel.add(new Header());
 panel.add(new Details());
-
 panel.add(new PlayerAttribute());
 panel.add(new CurrentLevel());
 //Panel adding

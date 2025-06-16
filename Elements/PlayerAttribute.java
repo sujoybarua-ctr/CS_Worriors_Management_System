@@ -12,7 +12,7 @@ public PlayerAttribute(){
 
 //Lbels adding
      
-    JLabel pp= new JLabel("Player Position(s)");
+    JLabel pp= new JLabel("Field Expertise");
     pp.setBounds(10,98,250,50);
     pp.setFont(new Font("Palatino Linotype", Font.BOLD, 26));
     pp.setForeground(new Color(245,238,27));
@@ -91,9 +91,24 @@ super.add(rw);
 super.add(st);
 
 }
+// Methods for getting values of checkboxes
 
+public String getPositions(){
+    StringBuilder p = new StringBuilder();// StringBuilder to modify String (cuz Strings are immutable)
+    if(gk.isSelected()) p.append("GK ");
+    if(cb.isSelected())p.append("CB ");
+    if (lb.isSelected()) p.append("LB ");
+    if (rb.isSelected()) p.append("RB ");
+    if (cm.isSelected()) p.append("CM ");
+    if (dm.isSelected()) p.append("DMF ");
+    if (am.isSelected()) p.append("AMF ");
+    if (rm.isSelected()) p.append("RM ");
+    if (lm.isSelected()) p.append("LM ");
+    if (lw.isSelected()) p.append("LWF ");
+    if (rw.isSelected()) p.append("RWF ");
+    if (st.isSelected()) p.append("CF ");
 
-
-
-
+    return p.toString().trim();// convert mutable StringBuilder to immutable string with trim() removing 
+    // before and after spaces
+}
 }
