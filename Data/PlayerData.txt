@@ -138,3 +138,20 @@ Coach: No
 Coach Type: N/A
 Experience: wiowiw
 ------------------------------
+Date registered:08:12 am, 16/06/2025
+============================
+Name: fd
+Id: f
+Semester: f
+Jersey No. :f
+Strategy: f
+Position(s): DMF
+Level: Average
+Strong Foot: Left Foot
+Fitness: Fit to Play
+Squad Type: Main Squad
+Captaincy: Yes
+Coach: No
+Coach Type: N/A
+Experience: f
+------------------------------
