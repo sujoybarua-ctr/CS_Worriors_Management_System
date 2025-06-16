@@ -1,0 +1,123 @@
+Date registered:02:50 AM, 10/06/2025
+============================
+Name: Sujoy Barua
+Id: 24-59329-3
+Semester: 2nd
+Jersey No. :10
+Strategy: Dribble past defenders
+Position(s): CM AMF LM LWF RWF CF
+Level: Skilled
+Strong Foot: Right Foot
+Fitness: Recovering
+Squad Type: Main Squad
+Captaincy: No
+Coach: No
+Coach Type: N/A
+Experience: Played in AIUB Futsal Tournament 
+before
+------------------------------
+Date registered:08:49 AM, 10/06/2025
+============================
+Name: Cristiano Ronaldo
+Id: 007-017
+Semester: 7th
+Jersey No. :7
+Strategy: Powershot
+Position(s): LM LWF RWF CF
+Level: Professional
+Strong Foot: Right Foot
+Fitness: Recovering
+Squad Type: Main Squad
+Captaincy: Yes
+Coach: No
+Coach Type: N/A
+Experience: 25 years 
+------------------------------
+Date registered:08:52 AM, 10/06/2025
+============================
+Name: Zinedin Zidane
+Id: 005-05
+Semester: 5th
+Jersey No. :5
+Strategy: Play-Maker
+Position(s): CM AMF
+Level: Professional
+Strong Foot: Right Foot
+Fitness: 
+Squad Type: 
+Captaincy: No
+Coach: Yes
+Coach Type: Manager
+Experience: 5 years coaching and
+10 years Playing
+------------------------------
+Date registered:09:10 AM, 10/06/2025
+============================
+Name: Lionel Messi
+Id: 10-10
+Semester: 1st
+Jersey No. :10
+Strategy: Dribble past defenders 
+Position(s): CM AMF RM RWF CF
+Level: Professional
+Strong Foot: Left Foot
+Fitness: Fit to Play
+Squad Type: Main Squad
+Captaincy: Yes
+Coach: No
+Coach Type: N/A
+Experience: 20 years
+------------------------------
+Date registered:01:33 AM, 13/06/2025
+============================
+Name: Prathom
+Id: 24070121
+Semester: 2nd
+Jersey No. :2
+Strategy: defending with huge body
+Position(s): GK CB DMF
+Level: Begginer
+Strong Foot: Right Foot
+Fitness: Injured
+Squad Type: Main Squad
+Captaincy: No
+Coach: No
+Coach Type: N/A
+Experience: 0 years
+------------------------------
+Date registered:07:18 am, 16/06/2025
+============================
+Name: Sujoy Barua
+Id: 24-59329-3
+Semester: 2nd
+Jersey No. :10
+Strategy: Dribble past defenders
+Position(s): CM AMF RM LM LWF CF
+Level: Skilled
+Strong Foot: Right Foot
+Fitness: Injured
+Squad Type: Main Squad
+Captaincy: Yes
+Coach: No
+Coach Type: N/A
+Experience: AIUB Futsal Tournament
+------------------------------
+Date registered:07:22 am, 16/06/2025
+============================
+Name: Ronaldinho
+Id: 10-11
+Semester: 5th
+Jersey No. :10
+Strategy: Joga Bonito
+Position(s): AMF LM LWF
+Level: Professional
+Strong Foot: Right Foot
+Fitness: Fit to Play
+Squad Type: Main Squad
+Captaincy: No
+Coach: No
+Coach Type: N/A
+Experience: Played for big cups and Ballon 
+D-or winner + worldcup
+winner
+------------------------------
