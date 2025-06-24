@@ -155,3 +155,71 @@ Coach: No
 Coach Type: N/A
 Experience: f
 ------------------------------
+Date registered:20:30 pm, 16/06/2025
+============================
+Name: Sujoy Barua
+Id: 24-59329-3
+Semester: 2nd
+Jersey No. :15
+Strategy: Fast pace and Accurate pass
+Position(s): CM AMF LM LWF CF
+Level: Skilled
+Strong Foot: Right Foot
+Fitness: Fit to Play
+Squad Type: Substitute
+Captaincy: Yes
+Coach: No
+Coach Type: N/A
+Experience: 15 years
+------------------------------
+Date registered:01:55 am, 18/06/2025
+============================
+Name: Iniesta
+Id: 0909-89
+Semester: 5th
+Jersey No. :10
+Strategy: being the center of all possesion
+Position(s): CM AMF RWF
+Level: Professional
+Strong Foot: Left Foot
+Fitness: Injured
+Squad Type: Main Squad
+Captaincy: Yes
+Coach: No
+Coach Type: N/A
+Experience: Barcelona for lots of years
+------------------------------
+Date registered:16:36 pm, 24/06/2025
+============================
+Name: sujoyu
+Id: 24-592-59
+Semester: 2nd
+Jersey No. :10
+Strategy: syhs fu
+Position(s): CM DMF LM LWF RWF
+Level: Professional
+Strong Foot: Right Foot
+Fitness: 
+Squad Type: Substitute
+Captaincy: No
+Coach: No
+Coach Type: N/A
+Experience: enurf
+------------------------------
+Date registered:17:02 pm, 24/06/2025
+============================
+Name: s
+Id: s
+Semester: s
+Jersey No. :s
+Strategy: s
+Position(s): AMF
+Level: Begginer
+Strong Foot: Right Foot
+Fitness: Fit to Play
+Squad Type: 
+Captaincy: Yes
+Coach: No
+Coach Type: N/A
+Experience: s
+------------------------------

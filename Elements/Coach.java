@@ -115,6 +115,7 @@ public void coachSelect(){
         chn.setSelected(true);
         }else {
                 ct.setEnabled(true);
+                chy.setEnabled(true);
                 coachWarning=false;
         }
 }
