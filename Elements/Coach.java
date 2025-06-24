@@ -71,6 +71,7 @@ chn.setBounds(145,255 , 50, 20);
 super.add(chn);
 super.add(chy);
 chy.addActionListener(this);
+chn.addActionListener(this);
 
 bg=new ButtonGroup();
 bg.add(chy);
@@ -99,7 +100,7 @@ public void setCurrentLevel(CurrentLevel currentLevel) {
 public void coachSelect(){
         String fit=(String)currentLevel.getFt().getSelectedItem();
         String playertype=(String)currentLevel.getSp().getSelectedItem();
-
+     
         if ((fit!=null && !fit.isEmpty())|| (playertype!=null && !playertype.isEmpty())) {// if any of the selection(except "") in ft or sp happened       
         ct.setSelectedIndex(1);
         ct.setEnabled(false);
@@ -113,18 +114,22 @@ public void coachSelect(){
                 coachWarning = true;
                 }
         chn.setSelected(true);
-        }else {
-                ct.setEnabled(true);
+        }else { if (!chn.isSelected()) {
+                 ct.setEnabled(true);  
                 chy.setEnabled(true);
                 coachWarning=false;
         }
+             
+        }
 }
-
-
 public void actionPerformed(ActionEvent ae){
         if (ae.getSource()==chy) {
                 cn.setSelected(true);
                 ct.setEnabled(true);
+    }
+    if (ae.getSource()==chn) {
+        ct.setSelectedIndex(1);
+                ct.setEnabled(false);
     }
         if (ae.getSource()==cy) {
                 chn.setSelected(true);
