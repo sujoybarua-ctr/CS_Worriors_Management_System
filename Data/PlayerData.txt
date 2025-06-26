@@ -223,3 +223,37 @@ Coach: No
 Coach Type: N/A
 Experience: s
 ------------------------------
+Date registered:20:37 pm, 24/06/2025
+============================
+Name: Sujoy barua
+Id: 24-9874
+Semester: 2nmd
+Jersey No. :10
+Strategy: ero,f
+Position(s): AMF RM
+Level: Professional
+Strong Foot: Left Foot
+Fitness: Fit to Play
+Squad Type: Main Squad
+Captaincy: No
+Coach: No
+Coach Type: N/A
+Experience: erg
+------------------------------
+Date registered:08:36 am, 26/06/2025
+============================
+Name: s
+Id: s
+Semester: s
+Jersey No. :s
+Strategy: ss
+Position(s): RM RWF CF
+Level: Skilled
+Strong Foot: Left Foot
+Fitness: Fit to Play
+Squad Type: Main Squad
+Captaincy: No
+Coach: No
+Coach Type: N/A
+Experience: s
+------------------------------

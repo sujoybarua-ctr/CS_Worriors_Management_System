@@ -50,9 +50,6 @@ private Showdetails dt;
 currentLevel.setCoach(coach);
 coach.setCurrentLevel(currentLevel);
 
-currentLevel.getFt().addActionListener(currentLevel);
-currentLevel.getSp().addActionListener(currentLevel);
-
 
 //Images
 winLog=new ImageIcon("LOGOCS/CSIcon-modified.png");
