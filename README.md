@@ -31,6 +31,10 @@ A **desktop-based** player and coach management system built with **Java Swing**
 - On form submission, data is **validated**, saved locally, and **displayed in the player list**.
 
 - Users can **load saved player data** anytime to review or edit.
+## 🖼️ GUI Preview
+Here is a look at the **CS Worriors Football Management** interface:
+
+ ![GUI Screenshot](LOGOCS/CS.png)
 
 ## 🏗️Architecture
 **The app loosely follows the MVC (Model-View-Controller) design pattern:**
