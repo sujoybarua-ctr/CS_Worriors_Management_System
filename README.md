@@ -31,3 +31,12 @@ A **desktop-based** player and coach management system built with **Java Swing**
 - On form submission, data is **validated**, saved locally, and **displayed in the player list**.
 
 - Users can **load saved player data** anytime to review or edit.
+
+## 🏗️Architecture
+**The app loosely follows the MVC (Model-View-Controller) design pattern:**
+
+- **Model**: Player and Coach classes encapsulate data.
+
+- **View**: Java Swing UI components handle user interaction.
+
+- **Controller**: Event listeners manage input processing and data flow between Model and View.
